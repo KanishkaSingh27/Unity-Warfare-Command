@@ -1,12 +1,12 @@
 Greetings from Team DPSN!
 
-We have created a website on Fashion Waste.
+We have created a website on .
 
 We have created 5 pages
   - Home Page 
   - FAQ Page
-  - Impact of Fashion Waste Page 
-  - Solutions to prevent Fashion Waste Page
+  - Impact of  Page 
+  - Solutions to prevent  Page
   - Brands contributon to sustainable development Page 
 
 
